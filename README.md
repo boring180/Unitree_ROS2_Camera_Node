@@ -16,7 +16,7 @@ Please refer to the [ROS2 installation guide](https://docs.ros.org/en/humble/Ins
 Please refer to the [Unitree ROS2 installation guide](https://github.com/unitree-robotics/unitree_ros2) to install the Unitree ROS2.
 
 ### Install Unitree Python SDK2
-Please refer to the [Unitree Python SDK2 installation guide](https://github.com/unitree-robotics/unitree_python_sdk2) to install the Unitree Python SDK2.
+Please refer to the [Unitree Python SDK2 installation guide](https://github.com/unitreerobotics/unitree_ros2) to install the Unitree Python SDK2.
 
 ### Install neccessary python libraries
 ```bash
